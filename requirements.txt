@@ -4,4 +4,4 @@ torch
 tqdm
 more-itertools
 tiktoken==0.3.3
-kenlm @ https://github.com/kpu/kenlm/archive/master.zip#sha256=4d002dcde70b52d519cafff4dc0008696c40cff1c9184a531b40c7b45905be6b
+kenlm @ https://github.com/kpu/kenlm/archive/35f145839eca742f2402716d17542fd0546efc9d.zip#sha256=8fa6723b5c99e8230167d83a2857f595b6c34dd2cd872a3d55194b80f36416c2
